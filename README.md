@@ -2,7 +2,7 @@
 Useful information for Concordia Course MECH370
 
 ## Lab report
-[Example file](./report_example.md) 
+[Example file](./report_example.pdf) 
 
 ## Lab 1
 Simulink model with block labels

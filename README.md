@@ -61,10 +61,15 @@ bode(sysMDS)
 ```
 Detailed explanation:
 
-The code above builds the following transfer function:
-$$
+The code "numeratorM=1;denominatorM=[M 0];sysM=tf(numeratorM,denominatorM)" builds the following blocks:
+![](images/lab1_blocks0.png)
 
-$$
+The code "sysMD=feedback(sysM,B)" builds the following blocks:
+![](images/lab1_blocks1.png)
+
+The code "numeratorI=1;denominatorI=[1 0];sysI=tf(numeratorI,denominatorI)" builds the second integrator block.
+
+Finally, the code "sysMDS=feedback(series(sysMD,sysI),K)" builds the complete system.
 
 ### Simscape model with block labels
 ![](images/Lab1_simscape.png)

@@ -25,6 +25,8 @@ where $G(s) = \mathscr{L}[g(t)]$
 ### Simulink model with block labels
 ![](images/Lab1_simulink.png)
 
+You can find more information [here](documents/more_instructions_on_lab_1_1.pdf).
+
 ### Matlab code running Simulink model
 ```Matlab
 M=2;
@@ -40,6 +42,8 @@ B=25; sim('lab1_simulink_model');plot(t,x)
 legend('B=4','B=8','B=12','B=25');
 hold off
 ```
+
+You can find more information [here](documents/more_instructions_on_lab_1_1.pdf).
 
 ### Matlab code for simulation
 ```Matlab

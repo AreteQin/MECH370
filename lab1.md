@@ -37,7 +37,7 @@ hold off
 
 You can find more information [here](documents/more_instructions_on_lab_1_1.pdf).
 
-## Matlab code for simulation
+## Matlab code for simulation (Optional)
 ```Matlab
 M=2;
 K=16;

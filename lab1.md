@@ -1,11 +1,11 @@
-[Lab1 Slides](documents/lab1_slides.pdf)
+## Lab1 Slides can be found [here](documents/lab1_slides.pdf)
 
-### If you encounter the following error:
+## If you encounter the following error:
 ![](images/delete_the_shadowing_file.png)
 
 It is because the file name of script file is the same as the name of the model file. Changing the name of the script file to something different can solve the problem.
 
-### Why does $\frac{1}{s}$ represent the integrator? According to the Laplace transform of integral:
+## Why does $\frac{1}{s}$ represent the integrator? According to the Laplace transform of integral:
 
 $$
 \mathscr{L}[\int g(t) d t]=\int_0^{+\infty}\int g(t)dt e^{-st}dt = 
@@ -14,12 +14,12 @@ $$
 
 where $G(s) = \mathscr{L}[g(t)]$
 
-### Simulink model with block labels
+## Simulink model with block labels
 ![](images/Lab1_simulink.png)
 
 You can find more information [here](documents/more_instructions_on_lab_1_1.pdf).
 
-### Matlab code running Simulink model
+## Matlab code running Simulink model
 ```Matlab
 M=2;
 K=16;
@@ -37,7 +37,7 @@ hold off
 
 You can find more information [here](documents/more_instructions_on_lab_1_1.pdf).
 
-### Matlab code for simulation
+## Matlab code for simulation
 ```Matlab
 M=2;
 K=16;
@@ -69,5 +69,5 @@ The code "numeratorI=1;denominatorI=[1 0];sysI=tf(numeratorI,denominatorI)" buil
 
 Finally, the code "sysMDS=feedback(series(sysMD,sysI),K)" builds the complete system.
 
-### Simscape model with block labels
+## Simscape model with block labels
 ![](images/Lab1_simscape.png)

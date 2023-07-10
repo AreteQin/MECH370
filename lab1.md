@@ -71,3 +71,7 @@ Finally, the code "sysMDS=feedback(series(sysMD,sysI),K)" builds the complete sy
 
 ## Simscape model with block labels
 ![](images/Lab1_simscape.png)
+
+
+## How to Connect Multiple Signals to a Scope
+![](images/lab1_multiple_signals.png)

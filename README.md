@@ -4,6 +4,9 @@ Useful information for Concordia Course MECH370
 ## Lab report
 [Example file](documents/report_example.pdf) 
 
+## Matlab access
+Students can not install Matlab on their own laptops. But you can remotely access the Matlab using desktops on campus. Detailed information can be found [here](https://www.concordia.ca/ginacody/aits/support/faq/connect-from-home.html).
+
 ## [Lab 1](lab1.md)
 ## [Lab 2](lab2.md)
 ## [Lab 3](lab3.md)

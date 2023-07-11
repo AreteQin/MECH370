@@ -4,6 +4,9 @@ Useful information for Concordia Course MECH370
 ## Lab report
 [Example file](documents/report_example.pdf) 
 
+## Files need to be submitted to the Moodle
+All your files including matlab code, Simscape and Simulink models need to be submitted to the Moodle.
+
 ## Matlab access
 Students can not install Matlab on their own laptops. But you can remotely access the Matlab using desktops on campus. Detailed information can be found [here](https://www.concordia.ca/ginacody/aits/support/faq/connect-from-home.html).
 

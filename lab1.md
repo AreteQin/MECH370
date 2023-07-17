@@ -75,3 +75,8 @@ Finally, the code "sysMDS=feedback(series(sysMD,sysI),K)" builds the complete sy
 
 ## How to Connect Multiple Signals to a Scope
 ![](images/lab1_multiple_signals.png)
+
+
+## How plot velocity in scope
+![](images/simulink_with_velocity.png)
+![](images/simscape_with_velocity.png)

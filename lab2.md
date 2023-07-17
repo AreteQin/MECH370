@@ -26,3 +26,5 @@ $$
 
 ## Difference between two methods, 0.368 and 0.632
 ![](images/lab2_plot.jpg)
+
+## How to set Initial pressure in Simulink model

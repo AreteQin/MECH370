@@ -23,3 +23,6 @@ P_t &= exp(ln|P_0|) \cdot exp(-\frac{t}{\tau})\\
 P_t &= P_0 exp(-\frac{t}{\tau})
 \end{aligned}
 $$
+
+## Difference between two methods, 0.368 and 0.632
+![](images/lab2_plot.jpg)

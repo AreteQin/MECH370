@@ -28,3 +28,5 @@ $$
 ![](images/lab2_plot.jpg)
 
 ## How to set Initial pressure in Simulink model
+Change the initial condition in your integrator to $P_0$.
+![](images/lab2_simulink.png)

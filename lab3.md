@@ -7,9 +7,9 @@ V_{tacho}= K_t * \omega
 $$
 
 where $K_t$ is the tachometer sensitivity
-$$
+```math
 K_t = 2 (V / krpm)
-$$
+```
 
 where $krpm$ represents 1000 rounds per minute, so
 $$

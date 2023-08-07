@@ -8,7 +8,7 @@ $$
 
 where $K_t$ is the tachometer sensitivity
 $$
-K_t = 2 (V/krpm)
+K_t = 2 (V / krpm)
 $$
 
 where $krpm$ represents 1000 rounds per minute, so

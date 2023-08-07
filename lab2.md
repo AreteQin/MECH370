@@ -33,6 +33,6 @@ Change the initial condition in your integrator to $P_0$.
 ![](images/lab2_simulink.png)
 
 ## How to calculate the $R_f$
-```
+```math
 \tau = R_f * C_f
 ```

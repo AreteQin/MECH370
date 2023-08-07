@@ -1,7 +1,7 @@
 # Lab4
 
 ## Parameters for Simulink model
-```
+```math
 L = 1.49e-3;\\
 R = 2.04;\\
 Kt = 2*60/(1000*2*pi);\\

@@ -7,10 +7,10 @@ It is because the file name of script file is the same as the name of the model 
 
 ## Why does $\frac{1}{s}$ represent the integrator? According to the Laplace transform of integral:
 
-$$
+```math
 \mathscr{L}[\int g(t) d t]=\int_0^{+\infty}\int g(t)dt e^{-st}dt = 
 \frac{G(s)+[\int g(t) d t]_{t=0}}{s}
-$$
+```
 
 where $G(s) = \mathscr{L}[g(t)]$
 

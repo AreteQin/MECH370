@@ -19,6 +19,8 @@ where $G(s) = \mathscr{L}[g(t)]$
 
 You can find more information [here](documents/more_instructions_on_lab_1_1.pdf).
 
+You can download an example of this Simulink model [here](others/lab1_simulink_model_2019b.slx).
+
 ## Matlab code running Simulink model
 ```Matlab
 M=2;
@@ -71,6 +73,8 @@ Finally, the code "sysMDS=feedback(series(sysMD,sysI),K)" builds the complete sy
 
 ## Simscape model with block labels
 ![](images/Lab1_simscape.png)
+
+You can find an example of this Simscape model [here](others/lab1_simscape_2019b.slx).
 
 
 ## How to Connect Multiple Signals to a Scope
